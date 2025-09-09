@@ -10,9 +10,9 @@ I'm a computer science engineer with a strong grip on data structures and proble
 
 ## Languages and Tools 
 
-| Java | Python | C | C++ | Embedded C | JS | PHP |
+| Java | Python | C | JS |
 |--------|----|-----|------|------------|-----|-----|
- | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55"/> | <img src="https://raw.githubusercontent.com/shroumith-simha/assets/main/embedded-c.png" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="55"/> |
+ | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img 
 
 
 ---

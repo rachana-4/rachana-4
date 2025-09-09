@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=I%20am%20%0Arachana&fontSize=50&fontAlignY=40&color=0:8871e5,100:b678c4&stroke=b678c4" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=I%20am%20%0ARachana&fontSize=50&fontAlignY=40&color=0:8871e5,100:b678c4&stroke=b678c4" />
 </p>
 
 ## About Me    
@@ -9,12 +9,9 @@ I'm a computer science engineer with a strong grip on data structures and proble
 ---
 
 ## Languages and Tools 
-
 | Java | Python | C | JS |
-|--------|----|-----|------|------------|-----|-----|
- | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img 
-
-
+|--------|----|-----|-----|
+ | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> |
 ---
 
 ### Best frameworks and libraries for Machine Learning:
@@ -27,9 +24,9 @@ I'm a computer science engineer with a strong grip on data structures and proble
 
 ### My tools for Data Manipulation:
 
-| Conda | Jupyter | R | MySQL | Supabase | MongoDB | Google Analytics | SQLite |
-|--------|----------|------|--------|-----------|----------|-------------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://raw.githubusercontent.com/shroumith-simha/assets/main/supabase.png" alt="Supabase" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" width="110"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55"/> |
+| Conda | Jupyter | R | MySQL | MongoDB |
+|--------|----------|------|--------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55"/> |
 
 ---
 
